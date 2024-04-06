@@ -14,7 +14,7 @@ body {
 }
 
 body {
-    background: url('../assets/fundo-tijolo-2.jpg') no-repeat top center;
+    background: url('../assets/fundo-tijolo.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -32,7 +32,7 @@ section#telefone {
 
     height: 611px;
     width: 301px;
-    background: url('../assets/frame-iphone-2.png') no-repeat;
+    background: url('../assets/frame-iphone.png') no-repeat;
 }
 
 iframe#tela {
